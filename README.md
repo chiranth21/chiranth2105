@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Engineering Student i'm pursuing my final year (4th year) engineering on Computer Science in APS college of Engineering , Banglore<br><br>
+Inquisitive in Computer Science graduate (VTU, 2025) with a strong foundation in Data Structures and Java programming. Passionate about web development and software engineering, eager to build efficient and scalable solutions. Enthusiastic about full-stack development and modern technologies to enhance user experiences. Always learning and solving problems to contribute effectively to dynamic teams.<br><br>
 
 
 ## 🌐 Socials:
