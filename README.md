@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a Engineering Student i'm pursuing my final year (4th year) engineering on Computer Science in APS college of Engineering , Banglore<br><br>
+Motivated and detail-oriented professional passionate about problem-solving and leveraging technology to create innovative
+solutions. Committed to learning new tools, enhancing technical expertise, and contributing to team success. Banglore<br><br>
 
 
 ## 🌐 Socials:
